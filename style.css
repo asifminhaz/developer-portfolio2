@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.orange{
+    color: orangered;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 2%;
+}
+.half-width img{
+    width: 100%;
+    height: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: darkorange;
+    font-weight: 700;
+    color: gainsboro;
+    padding: 10px, 40px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+    
